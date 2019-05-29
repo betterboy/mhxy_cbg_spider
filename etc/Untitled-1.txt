@@ -1,0 +1,3 @@
+https://recommd.xyq.cbg.163.com/cgi-bin/recommend.py?
+act=recommd_by_role&page=1&level_min=60&level_max=160&kindid=10
+&sum_attr_without_melt=1&count=15&search_type=overall_search_equip&view_loc=overall_search
